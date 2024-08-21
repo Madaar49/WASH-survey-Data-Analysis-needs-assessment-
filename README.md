@@ -1,4 +1,4 @@
-# [Data cleaning and analysis of the WASH baseline survey in Sierra Leone 2016]
+# Data cleaning and analysis of the WASH baseline survey in Sierra Leone 2016
 
 ## The WASH survey 2016
 
