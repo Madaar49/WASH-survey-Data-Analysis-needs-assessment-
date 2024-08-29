@@ -2,7 +2,7 @@
 
 ## The WASH survey 2016 data
 WASH is an acronym for (Water, sanitation and hygiene). The Sierra Leone WASH portal is a comprehensive mapping exercise carried out by the Ministry of Water Resources (MOWR) and its partners in 2016. Over 28,000 public improved waterpoints across all of Sierra Leone’s districts and chiefdoms have been mapped during this period. The exercise constitutes a comprehensive update of the earlier mapping in 2012.
-The original data was retrieved from washdata-sl.org in 2022. Since then the data on the website has been pre-processed and updated. I used the previous version (raw WASH baseline survey questionnaire) because it require more cleaning - better for gaining more experience.
+The original data was retrieved from [washdata-sl.org](https://washdata-sl.org/wash-data/) in 2022. Since then the data on the website has been pre-processed and updated. I used the previous version (raw WASH baseline survey questionnaire) because it require more cleaning - better for gaining more experience.
 
 ## Contents
 ### Data and scripts
