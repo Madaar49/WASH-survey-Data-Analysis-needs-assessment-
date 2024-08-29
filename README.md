@@ -7,7 +7,7 @@ The original data was retrieved from [washdata-sl.org](https://washdata-sl.org/w
 ## Contents
 ### Data and scripts
 This repository includes the raw WASH baseline survey questionnaire,  pre-processing notebook and the post processed files. My initial idea was to develop a suitability predictive model to infer what type of water point is suitable in a geographical area. This work is still in progress, but I decided to showcase the processed data on a dashboard.
-The data was processed using python, and the notebook can be accessed at [WASH_survey_preprocessing.ipynb](https://github.com/Madaar49/WASH-survey-Data-Analysis-needs-assessment-/blob/main/WASH_survey_preprocessing.ipynb)
+The data was processed using python, and the notebook can be accessed at [WASH_survey_preprocessing.ipynb](https://github.com/Madaar49/WASH-survey-Data-Analysis-needs-assessment-/blob/main/WASH_survey_preprocessing.ipynb).
 
 ### The dashboard
-The dashboard was created using the post processed data, and hosted by the **africageoportal**. It can be accessed at [Sierra Leone water points Dashboard](https://africageoportal.maps.arcgis.com/apps/dashboards/912c78bb3e644e31a9976f847a4fd51a)
+The dashboard was created using the post processed data, and hosted by the [The Africa GeoPortal](https://www.africageoportal.com). It can be accessed at [Sierra Leone water points Dashboard](https://africageoportal.maps.arcgis.com/apps/dashboards/912c78bb3e644e31a9976f847a4fd51a).
