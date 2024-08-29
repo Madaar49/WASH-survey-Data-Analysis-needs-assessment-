@@ -10,4 +10,4 @@ This repository includes the raw WASH baseline survey questionnaire,  pre-proces
 The data was processed using python, and the notebook can be accessed at [WASH_survey_preprocessing.ipynb](https://github.com/Madaar49/WASH-survey-Data-Analysis-needs-assessment-/blob/main/WASH_survey_preprocessing.ipynb).
 
 ### The dashboard
-The dashboard was created using the post processed data, and hosted by the [The Africa GeoPortal](https://www.africageoportal.com). It can be accessed at [Sierra Leone water points Dashboard](https://africageoportal.maps.arcgis.com/apps/dashboards/912c78bb3e644e31a9976f847a4fd51a).
+The dashboard was created using the post processed data, and hosted by the [The Africa GeoPortal](https://www.africageoportal.com). It can be accessed at [Sierra Leone water points Dashboard](https://africageoportal.maps.arcgis.com/apps/dashboards/912c78bb3e644e31a9976f847a4fd51a). Documentation about the dashboard can be found at [how-to-use.MD](https://github.com/Madaar49/WASH-survey-Data-Analysis-needs-assessment-/blob/main/how-to-use.md).
