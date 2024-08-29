@@ -1,11 +1,11 @@
-# chapter-project-repository-template
-Use this Repository as a template for creating Local Chapter Repositories
+<<<<<<< HEAD
+# [Data Science 1 - Final Project]
+
+## Project Title : Predicting the ambient electrical energy output (PE) of a Combined Cycle Power Plant (CCCP) by Machine Learning
+
+## Introduction
 
 
-# [Chapter Challenge Name]
-
-
-## Contribution Guidelines
 - Have a Look at the [project structure](#project-structure) and [folder overview](#folder-overview) below to understand where to store/upload your contribution
 - If you're creating a task, Go to the task folder and create a new folder with the below naming convention and add a README.md with task details and goals to help other contributors understand
     - Task Folder Naming Convention : _task-n-taskname.(n is the task number)_  ex: task-1-data-analysis, task-2-model-deployment etc.
@@ -56,3 +56,7 @@ Use this Repository as a template for creating Local Chapter Repositories
 - Results           - Folder to store final analysis modelling results for the project.
 
 
+=======
+# WASH-survey-Data-Analysis--needs-assessment-
+ Analysis of Wash Data Sierra Leone-- more details incoming...
+>>>>>>> eaca49d8785dd76cd0179ec82517b548905eaa14
