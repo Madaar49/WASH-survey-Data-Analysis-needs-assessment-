@@ -7,7 +7,7 @@ I wanted to work with data from my country, Sierra Leone, while putting my skill
 This dashboard was created using the [processed Sierra Leone WASH 2016 survey data](https://github.com/Madaar49/WASH-survey-Data-Analysis-needs-assessment-/blob/main/WP_ALL%20DATA/WP%20Master.csv). WASH is an  acronym for (Water, sanitation and hygiene). The original data was retrieved from [washdata-sl.org](https://washdata-sl.org/wash-data/) in 2022. Since then the data on the website has been pre-processed and updated. I used the previous version because it require more cleaning - better for gaining more experience. 
 
 ### Data processing
-The data was processed using python, and the notebook can be accessed at [WASH_survey_preprocessing.ipynb](https://github.com/Madaar49/WASH-survey-Data-Analysis-needs-assessment-/blob/main/03-Data%20Analysis.ipynb)
+The data was processed using python, and the notebook can be accessed at [WASH_survey_preprocessing.ipynb](https://github.com/Madaar49/WASH-survey-Data-Analysis-needs-assessment-/blob/main/WASH_survey_preprocessing.ipynb)
 
 ### Attributes selected
 The original dataset contains 52 fields/attributes, and not all were choosen. The attribute information are specified below. The format is ('original column name' : `processed column name`)
@@ -37,7 +37,8 @@ The original dataset contains 52 fields/attributes, and not all were choosen. Th
 Below you can find the details of the dashboard.It also serves as a guide on how to navigate and use the water point ArcGIS Dashboard effectively. 
 
 ### Accessing the Dashboard
-The dashboard can be accessed at the [website](https://gbondo-am.github.io). 
+The dashboard can be accessed is hosted by the [The Africa GeoPortal](https://www.africageoportal.com). It can be accessed at [Sierra Leone water points Dashboard](https://africageoportal.maps.arcgis.com/apps/dashboards/912c78bb3e644e31a9976f847a4fd51a).
+
 
 ### Choice of design and data displayed
 I wanted to create a design as minimal as possible, but shows important information. I decided to display 5 fields which can be updated based on query. 
