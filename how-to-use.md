@@ -45,7 +45,7 @@ I wanted to create a design as minimal as possible, but shows important informat
 
 - Filters: To show waterpoint data based on a selected filter/query. It can be regional, district, or chiefdom admistrative level.
 
-![alt text](/images/region.png)
+![alt text](/images/regions.png)
 <p align="center">
 <em>Filters select only the water points within the spatial boundaries of the filter choosen</em>
 </p>
