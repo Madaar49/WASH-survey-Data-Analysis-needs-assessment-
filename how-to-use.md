@@ -43,9 +43,9 @@ The dashboard can be accessed is hosted by the [The Africa GeoPortal](https://ww
 ### Choice of design and data displayed
 I wanted to create a design as minimal as possible, but shows important information. I decided to display 5 fields which can be updated based on query. 
 
-- Filters: To show waterpoint data based on a selected filter/query. It can be regional, district, or chiefdom admistrative level.
+- Filters: To show waterpoint data based on a selected query. It can be regional, district, or chiefdom.
 
-- Fields: I used 5 fields to display, all of which are focused on waterpoint characteristics. The idea was to have these values update based on filter.
+- Fields: I choosed 5 fields to display, all of which are focused on waterpoint characteristics. The idea was to have these values update based on filter.
 
     - Water points: to show the amount of water points.
     - WASH teams functional: to know the amount of WASH teams active. n/b A WASH team, commonly referred to as a `WASH Committee` consists of members elected by the community who are responsible for keeping the water supply, sanitation and hygiene facilities and services operational.
@@ -69,7 +69,7 @@ Water point, District and Chiefdom data at the center of the dashboard. Zoom in/
 **Control buttons:** At the top right of the map view. Contains Home, legend, map layers and basemaps (such as satellite view, OSM, terrain etc.). 
 
 #### Sidebar Panels:
- - **Filters Panel:** Allows you to filter data by various criteria (e.g., Region, district and chiefdom). The view pans into the selected filter area and shows all the water points within the area boundary. Additioinally, the Data summary panel is also updated based on filter
+ - **Filters Panel:** Allows you to filter data by various criteria (e.g., Region, district and chiefdom). The view pans into the selected filter area and shows all the water points within the area boundary. Additioinally, the Data summary panel is also updated based on filter.
 
 
 ![alt text](/images/regions.png)
