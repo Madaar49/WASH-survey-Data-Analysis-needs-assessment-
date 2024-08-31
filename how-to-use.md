@@ -45,11 +45,6 @@ I wanted to create a design as minimal as possible, but shows important informat
 
 - Filters: To show waterpoint data based on a selected filter/query. It can be regional, district, or chiefdom admistrative level.
 
-![alt text](/images/regions.png)
-<p align="center">
-<em>Filters select only the water points within the spatial boundaries of the filter choosen</em>
-</p>
-
 - Fields: I used 5 fields to display, all of which are focused on waterpoint characteristics. The idea was to have these values update based on filter.
 
     - Water points: to show the amount of water points.
@@ -75,6 +70,12 @@ Water point, District and Chiefdom data at the center of the dashboard. Zoom in/
 
 #### Sidebar Panels:
  - **Filters Panel:** Allows you to filter data by various criteria (e.g., Region, district and chiefdom). The view pans into the selected filter area and shows all the water points within the area boundary. Additioinally, the Data summary panel is also updated based on filter
+
+
+![alt text](/images/regions.png)
+<p align="center">
+<em>Filters select only the water points within the spatial boundaries of the filter choosen</em>
+</p>
 
  - **Data Summary Panel:** Provides a summary of key statistics (e.g., water points, and WASHteam functionality). At the bottom you can choose which distribution you want to see. The options are (wp Functionality, water point type and year round sustainability) Values are updated based on filters choosen.
 
